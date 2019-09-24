@@ -2,22 +2,27 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "hello",
+        "actore": "bebb"
       },
       {
         "id": 2,
-        "title": "bye"
+        "title": "bye",
+        "actore": "qeeq"
       },
       {
         "id": 3,
-        "title": "qeeq"
+        "title": "qeeq",
+        "actore": "beerfrfbb"
       },
       {
         "id": 4,
-        "title": "bbbbb"
+        "title": "bbbbb",
+        "actore": "fff"
       }
     ],
     "profile": {
-      "name": "typicode"
+      "name": "typicode",
+      "actore": "gg"
     }
   }
