@@ -107,6 +107,24 @@
             "time": "11:44:33 AM",
             "location_lat": "45.0792° E",
             "location_log": "23.8859° N"
+        },
+        {
+            "id": 13,
+            "sensor_temperature": 25,
+            "sensor_humidity": 5,
+            "date": "Wednesday, 25 September 2019",
+            "time": "11:44:33 AM",
+            "location_lat": "45.0792° E",
+            "location_log": "23.8859° N"
+        },
+        {
+            "id": 14,
+            "sensor_temperature": 55,
+            "sensor_humidity": 15,
+            "date": "Wednesday, 25 September 2019",
+            "time": "11:44:33 AM",
+            "location_lat": "45.0792° E",
+            "location_log": "23.8859° N"
         }
     ]
 }
