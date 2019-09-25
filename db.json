@@ -101,8 +101,8 @@
         },
         {
             "id": 12,
-            "sensor_temperature": 45,
-            "sensor_humidity": 25,
+            "sensor_temperature": 25,
+            "sensor_humidity": 5,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:33 AM",
             "location_lat": "45.0792° E",
