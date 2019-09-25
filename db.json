@@ -1,8 +1,9 @@
 {
-    "temperature_sensors": [
+    "sensors": [
         {
             "id": 1,
             "sensor_temperature": 35,
+            "sensor_humidity": 10,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:00 AM",
             "location_lat": "45.0792° E",
@@ -11,6 +12,7 @@
         {
             "id": 2,
             "sensor_temperature": 34.8,
+            "sensor_humidity": 9.5,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:03 AM",
             "location_lat": "45.0792° E",
@@ -19,6 +21,7 @@
         {
             "id": 3,
             "sensor_temperature": 34.9,
+            "sensor_humidity": 9.8,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:06 AM",
             "location_lat": "45.0792° E",
@@ -27,6 +30,7 @@
         {
             "id": 4,
             "sensor_temperature": 35,
+            "sensor_humidity": 10.2,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:09 AM",
             "location_lat": "45.0792° E",
@@ -35,6 +39,7 @@
         {
             "id": 5,
             "sensor_temperature": 34.6,
+            "sensor_humidity": 10.1,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:12 AM",
             "location_lat": "45.0792° E",
@@ -43,6 +48,7 @@
         {
             "id": 6,
             "sensor_temperature": 35,
+            "sensor_humidity": 9,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:15 AM",
             "location_lat": "45.0792° E",
@@ -51,6 +57,7 @@
         {
             "id": 7,
             "sensor_temperature": 34.8,
+            "sensor_humidity": 10,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:18 AM",
             "location_lat": "45.0792° E",
@@ -59,6 +66,7 @@
         {
             "id": 8,
             "sensor_temperature": 34.2,
+            "sensor_humidity": 10,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:21 AM",
             "location_lat": "45.0792° E",
@@ -67,96 +75,16 @@
         {
             "id": 9,
             "sensor_temperature": 35,
-            "date": "Wednesday, 25 September 2019",
-            "time": "11:44:24 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        },
-        {
-            "id": 10,
-            "sensor_temperature": 35,
-            "date": "Wednesday, 25 September 2019",
-            "time": "11:44:27 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        }
-    ],
-    "humidity_sensors": [
-        {
-            "id": 1,
-            "sensor_humidity": 10,
-            "date": "Wednesday, 25 September 2019",
-            "time": "11:44:00 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        },
-        {
-            "id": 2,
             "sensor_humidity": 9.7,
             "date": "Wednesday, 25 September 2019",
-            "time": "11:44:03 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        },
-        {
-            "id": 3,
-            "sensor_humidity": 9.4,
-            "date": "Wednesday, 25 September 2019",
-            "time": "11:44:06 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        },
-        {
-            "id": 4,
-            "sensor_humidity": 9.8,
-            "date": "Wednesday, 25 September 2019",
-            "time": "11:44:09 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        },
-        {
-            "id": 5,
-            "sensor_humidity": 10,
-            "date": "Wednesday, 25 September 2019",
-            "time": "11:44:12 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        },
-        {
-            "id": 6,
-            "sensor_humidity": 10.2,
-            "date": "Wednesday, 25 September 2019",
-            "time": "11:44:15 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        },
-        {
-            "id": 7,
-            "sensor_humidity": 10.1,
-            "date": "Wednesday, 25 September 2019",
-            "time": "11:44:18 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        },
-        {
-            "id": 8,
-            "sensor_humidity": 10.5,
-            "date": "Wednesday, 25 September 2019",
-            "time": "11:44:21 AM",
-            "location_lat": "45.0792° E",
-            "location_log": "23.8859° N"
-        },
-        {
-            "id": 9,
-            "sensor_humidity": 10.2,
-            "date": "Wednesday, 25 September 2019",
             "time": "11:44:24 AM",
             "location_lat": "45.0792° E",
             "location_log": "23.8859° N"
         },
         {
             "id": 10,
-            "sensor_humidity": 10,
+            "sensor_temperature": 35,
+            "sensor_humidity": 9,
             "date": "Wednesday, 25 September 2019",
             "time": "11:44:27 AM",
             "location_lat": "45.0792° E",
